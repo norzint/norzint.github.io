@@ -9,3 +9,9 @@ hello i am norzin i am a cool person who likes to do cool things.
 
 
 i hope you enjoy my little website
+
+one thing i like on the internet is this AI baby  
+
+![baby](/images/baby.gif)
+
+come visit the site soon for more! 
