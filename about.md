@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: about norzin
 permalink: /about/
 ---
+hi guys prepare to be indoctrinated  i hope you enjoy my cool website and stay a while while i hack ur brain
 
-Some information about you!
+![puter](/images/puter.jpg)
 
+here i will showcase my photographs, my drawings, my books and my writings. 
+(⁠≧⁠▽⁠≦⁠)ﾉ♡
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### [please hesitate to contact me](mailto:norzintamang2005@gmail.com)
